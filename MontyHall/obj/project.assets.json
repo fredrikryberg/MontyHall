@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fredr\\OneDrive\\Dokument\\MontyHall\\MontyHallv2\\MontyHall\\MontyHall.csproj",
+      "projectUniqueName": "C:\\Users\\fredr\\OneDrive\\Dokument\\MontyHallRepo\\MontyHall\\MontyHall.csproj",
       "projectName": "MontyHall",
-      "projectPath": "C:\\Users\\fredr\\OneDrive\\Dokument\\MontyHall\\MontyHallv2\\MontyHall\\MontyHall.csproj",
-      "outputPath": "C:\\Users\\fredr\\OneDrive\\Dokument\\MontyHall\\MontyHallv2\\MontyHall\\obj\\",
+      "projectPath": "C:\\Users\\fredr\\OneDrive\\Dokument\\MontyHallRepo\\MontyHall\\MontyHall.csproj",
+      "outputPath": "C:\\Users\\fredr\\OneDrive\\Dokument\\MontyHallRepo\\MontyHall\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
