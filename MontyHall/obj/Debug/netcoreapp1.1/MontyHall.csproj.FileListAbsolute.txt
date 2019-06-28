@@ -1,0 +1,17 @@
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.deps.json
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.runtimeconfig.json
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.runtimeconfig.dev.json
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.dll
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.pdb
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\obj\Debug\netcoreapp1.1\MontyHall.csprojResolveAssemblyReference.cache
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\obj\Debug\netcoreapp1.1\MontyHall.AssemblyInfo.cs
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\obj\Debug\netcoreapp1.1\MontyHall.dll
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHall\obj\Debug\netcoreapp1.1\MontyHall.pdb
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHallv2\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.deps.json
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHallv2\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.runtimeconfig.json
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHallv2\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.runtimeconfig.dev.json
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHallv2\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.dll
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHallv2\MontyHall\bin\Debug\netcoreapp1.1\MontyHall.pdb
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHallv2\MontyHall\obj\Debug\netcoreapp1.1\MontyHall.AssemblyInfo.cs
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHallv2\MontyHall\obj\Debug\netcoreapp1.1\MontyHall.dll
+C:\Users\fredr\OneDrive\Dokument\MontyHall\MontyHallv2\MontyHall\obj\Debug\netcoreapp1.1\MontyHall.pdb
